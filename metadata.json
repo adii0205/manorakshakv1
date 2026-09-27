@@ -1,0 +1,7 @@
+{
+  "name": "NHAA 14566 - AI Stress & Trauma Assessment System",
+  "description": "Real-time AI-enabled psychological stress, trauma, and vulnerability assessment platform for National Helpline Against Atrocities (14566) and Integrated Portal under Dept of Social Justice & Empowerment, Govt of India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
